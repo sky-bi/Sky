@@ -1,7 +1,7 @@
 name: Domain Kontrol ve Güncelleme
 
 on:
-  workflow_dispatch:  # Manuel çalıştırma (İsteğe bağlı)
+  workflow_dispatch:  # Manuel çalıştırma (isteğe bağlı)
   schedule:
     - cron: "*/2 * * * *"  # Her 2 dakikada bir çalışacak şekilde ayarlandı
 
@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest  # Ubuntu üzerinde çalıştırılacak
 
     permissions:
-      contents: write
-      pull-requests: write
+      contents: write  # Depo içeriğini yazma izni
+      pull-requests: write  # Pull request için yazma izni
 
     steps:
       # Depoyu klonla
@@ -49,9 +49,11 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
           # Dosyaları ekle ve commit et
-          git add test
-          git commit -m "🔄 Domain güncellendi: bir sonraki numaraya artırıldı"
+          git add v.json
+          git commit -m "🔄 v.json güncellendi"
           
           # Yeni branch oluştur ve push et
-          git checkout -B domain-degisikligi
-          git push origin domain-degisikligi --force  # Değişiklikleri yeni branch'e push et
+          git checkout -B vjson-degisikligi
+          git push origin vjson-degisikligi --force  # Değişiklikleri yeni branch'e push et
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
