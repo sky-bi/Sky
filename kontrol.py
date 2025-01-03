@@ -37,5 +37,5 @@ def update_domain_in_file(file_path):
         print("Domain değişiklik yapılacak bir durum yok.")
 
 if __name__ == "__main__":
-    file_path = "test.html"  # test dosyasının yolu
+    file_path = "test"  # test dosyasının yolu
     update_domain_in_file(file_path)
