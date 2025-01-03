@@ -9,6 +9,10 @@ jobs:
   kontrol:
     runs-on: ubuntu-latest  # Ubuntu üzerinde çalıştırılacak
 
+    permissions:
+      contents: write
+      pull-requests: write
+
     steps:
       # Depoyu klonla
       - name: Depoyu Klonla
