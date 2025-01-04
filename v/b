@@ -40,7 +40,7 @@
   },
   {
     "id": 4,
-    "images": "https://firebasestorage.googleapis.com/v0/b/androiddunyasi-6f363.appspot.com/o/logo_stor%2F1676937248532.jpg?alt=media&token=49250046-3da6-4819-8ab8-92749cc3d517",
+    "images": "https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027954.png",
     "category": "ULUSAL",
     "title": "TRT 2 | A",
     "link-1": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
@@ -53,7 +53,7 @@
   },
   {
     "id": 5,
-    "images": "https://firebasestorage.googleapis.com/v0/b/androiddunyasi-6f363.appspot.com/o/logo_stor%2F1676937248532.jpg?alt=media&token=49250046-3da6-4819-8ab8-92749cc3d517",
+    "images": "https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027954.png",
     "category": "ULUSAL",
     "title": "TRT 2 | B",
     "link-1": "http://live6sr.kablowebtv.com/Live/HLS/2022/2022.m3u8",
