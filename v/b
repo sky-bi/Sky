@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "images": "https://firebasestorage.googleapis.com/v0/b/androiddunyasi-6f363.appspot.com/o/logo_stor%2F1676937179195.jpg?alt=media&token=8787b420-6852-4c59-8720-e1f4ca937b5f",
+        "images": "http://mediacms01.digiturkplay.com/channel_logo/trt1_250x150.png",
         "category": "ULUSAL",
         "title": "TRT 1 (A)",
         "link-1": "https://trt1.blutv.com/blutv_trt1_live/live.m3u8",
@@ -27,7 +27,7 @@
     },
     {
         "id": 3,
-        "images": "https://firebasestorage.googleapis.com/v0/b/androiddunyasi-6f363.appspot.com/o/logo_stor%2F1676937179195.jpg?alt=media&token=8787b420-6852-4c59-8720-e1f4ca937b5f",
+        "images": "http://mediacms01.digiturkplay.com/channel_logo/trt1_250x150.png",
         "category": "ULUSAL",
         "title": "TRT 1 -DVR",
         "link-1": "https://trt1dvr.blutv.com/blutv_trt1_dvr2/live.m3u8",
