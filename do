@@ -1,1 +1,1 @@
-https://v3.mediaapi.online
+https://sky-b.global.ssl.fastly.net
