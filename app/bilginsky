@@ -1,9 +1,9 @@
 ﻿[
   {
     "id": "1",
-    "name": "Check app security",
-    "package_name": "com.my.newproject2",
-    "signature": "26b02d233509f4aecf56980032343456ceab722a",
+    "name": "BilginSky",
+    "package_name": "bilginsky.com",
+    "signature": "d88e0bbe9d330fc816617c111d 4283dcf5e612ef",
     "size": "156401",
     "status": "online",
     "owner": "Bilgin - Application Development and Publishing",
