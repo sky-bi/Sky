@@ -182,19 +182,6 @@
     "to": "NO"
   },
   {
-    "id": 285,
-    "images": "https://i.imgur.com/5EYjWK7.png",
-    "category": "ULUSAL",
-    "title": "NOW TV",
-    "link-1": "http://live3sr.kablowebtv.com/Live/HLS/4081/4081.m3u8",
-    "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
-    "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
-    "type": "m3u8",
-    "yt": "NO",
-    "position": 18,
-    "to": "NO"
-  },
-  {
     "id": 286,
     "images": "https://i.imgur.com/uykIdML.png",
     "category": "ULUSAL",
@@ -205,19 +192,6 @@
     "type": "m3u8",
     "yt": "NO",
     "position": 19,
-    "to": "NO"
-  },
-  {
-    "id": 287,
-    "images": "https://i.imgur.com/uykIdML.png",
-    "category": "ULUSAL",
-    "title": "BEYAZ TV",
-    "link-1": "\"Referer\", \"https://google.com/\"",
-    "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
-    "headers": "Referer: https://google.com",
-    "type": "m3u8",
-    "yt": "NO",
-    "position": 20,
     "to": "NO"
   },
   {
@@ -263,39 +237,13 @@
     "id": 292,
     "images": "https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605",
     "category": "ULUSAL",
-    "title": "TV 8.5 (A)",
+    "title": "TV 8.5",
     "link-1": "\"Referer\", \"https://google.com/\"",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "Referer: https://google.com",
     "type": "m3u8",
     "yt": "NO",
     "position": 25,
-    "to": "NO"
-  },
-  {
-    "id": 293,
-    "images": "https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605",
-    "category": "ULUSAL",
-    "title": "TV 8.5 (B)",
-    "link-1": "\"Referer\", \"https://google.com/\"",
-    "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
-    "headers": "Referer: https://google.com",
-    "type": "m3u8",
-    "yt": "NO",
-    "position": 26,
-    "to": "NO"
-  },
-  {
-    "id": 294,
-    "images": "https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605",
-    "category": "ULUSAL",
-    "title": "TV 8.5 (C)",
-    "link-1": "\"Referer\", \"https://google.com/\"",
-    "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
-    "headers": "Referer: https://google.com",
-    "type": "m3u8",
-    "yt": "NO",
-    "position": 27,
     "to": "NO"
   },
   {
