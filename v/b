@@ -186,13 +186,13 @@
     "images": "https://i.imgur.com/uykIdML.png",
     "category": "ULUSAL",
     "title": "BEYAZ TV",
-    "link-1": "\"Referer\", \"https://google.com/\"",
+    "link-1": "https://www.oha.to/oha-tv/play/2755756005c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "Referer: https://google.com",
     "type": "m3u8",
     "yt": "NO",
     "position": 19,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 289,
@@ -238,13 +238,13 @@
     "images": "https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605",
     "category": "ULUSAL",
     "title": "TV 8.5",
-    "link-1": "\"Referer\", \"https://google.com/\"",
+    "link-1": "https://www.oha.to/oha-tv/play/3472698776c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "Referer: https://google.com",
     "type": "m3u8",
     "yt": "NO",
     "position": 25,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 295,
@@ -264,13 +264,13 @@
     "images": "https://bilginsky.global.ssl.fastly.net/images/296.png",
     "category": "ULUSAL",
     "title": "TV 4",
-    "link-1": "\"Referer\", \"https://google.com/\"",
+    "link-1": "https://www.oha.to/oha-tv/play/1193276019c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "Referer: https://google.com",
     "type": "m3u8",
     "yt": "NO",
     "position": 29,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 37,
