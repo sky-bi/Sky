@@ -336,20 +336,7 @@
     "yt": "NO",
     "position": 29,
     "to": "NO"
-  },
-  {
-    "id": 36,
-    "images": "http://mediacms01.digiturkplay.com/channel_logo/ahaber_250x150.png",
-    "category": "HABER",
-    "title": "A HABER (A)",
-    "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/1174108535/index.m3u8",
-    "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
-    "headers": "Referer: https://google.com",
-    "type": "0",
-    "yt": "NO",
-    "position": 2,
-    "to": "NO"
-  },
+  }
   {
     "id": 37,
     "images": "http://mediacms01.digiturkplay.com/channel_logo/ahaber_250x150.png",
