@@ -160,13 +160,13 @@
     "images": "https://i.imgur.com/456FWA7.png",
     "category": "ULUSAL",
     "title": "SHOW MAX",
-    "link-1": "\"Referer\", \"https://google.com/\"",
+    "link-1": "https://www.oha.to/oha-tv/play/1495761327c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "Referer: https://google.com",
     "type": "m3u8",
     "yt": "NO",
     "position": 16,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 284,
