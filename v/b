@@ -339,7 +339,7 @@
   },
   {
     "id": 36,
-    "images": "http://mediacms01.digiturkplay.com/channel_logo/ahaber_250x150.png",
+    "images": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",
     "category": "HABER",
     "title": "A HABER (A)",
     "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/1174108535/index.m3u8",
