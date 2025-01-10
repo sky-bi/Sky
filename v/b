@@ -339,7 +339,7 @@
   },
   {
     "id": 36,
-    "images": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",
+    "images": "http://mediacms01.digiturkplay.com/channel_logo/ahaber_250x150.png",
     "category": "HABER",
     "title": "A HABER (A)",
     "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/1174108535/index.m3u8",
@@ -354,14 +354,14 @@
     "id": 37,
     "images": "http://mediacms01.digiturkplay.com/channel_logo/ahaber_250x150.png",
     "category": "HABER",
-    "title": "A HABER (B)",
-    "link-1": "https://raw.githubusercontent.com/rideordie16/YouTube/main/haber/ahaber.m3u8",
+    "title": "A HABER",
+    "link-1": "https://www.oha.to/oha-tv/play/3511150491c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "Referer: https://google.com",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 38,
