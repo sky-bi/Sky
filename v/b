@@ -875,13 +875,13 @@
     "images": "https://www.sportstv.com.tr/assets/images/sportstv/logo_sportstv_large.png",
     "category": "SPOR",
     "title": "SPORTS TV",
-    "link-1": "https://www.oha.to/oha-tv/play/3422827985c5a392c54f71",
+    "link-1": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "Referer: https://google.com",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "YES"
+    "to": "NO"
   },
   {
     "id": 79,
