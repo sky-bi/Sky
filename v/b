@@ -1197,7 +1197,7 @@
   },
     {
     "id": 119,
-    "images": "https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=171",
+    "images": "https://i.imgur.com/cqbXN0u.png",
     "category": "SINEMA",
     "title": "SINEMA 1001",
     "link-1": "http://live1sr.kablowebtv.com/Live/HLS/4099/4099.m3u8",
@@ -1210,7 +1210,7 @@
   },
   {
     "id": 120,
-    "images": "https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=583",
+    "images": "https://i.imgur.com/dPRwTDf.png",
     "category": "SINEMA",
     "title": "SINEMA 1002",
     "link-1": "https://fs.mediafs.online/bilgintv/sinema1002/mpegts",
@@ -1223,7 +1223,7 @@
   },
   {
     "id": 121,
-    "images": "https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=170",
+    "images": "https://i.imgur.com/gsSIJp8.png",
     "category": "SINEMA",
     "title": "SINEMA AILE 1",
     "link-1": "https://fs.mediafs.online/bilgintv/sinemaaile/mpegts",
@@ -1236,7 +1236,7 @@
   },
   {
     "id": 122,
-    "images": "https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=577",
+    "images": "https://i.imgur.com/a6O3mBz.png",
     "category": "SINEMA",
     "title": "SINEMA AILE 2",
     "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/3131911051/index.m3u8",
@@ -1249,7 +1249,7 @@
   },
   {
     "id": 123,
-    "images": "https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=173",
+    "images": "https://i.imgur.com/35nv1k4.png",
     "category": "SINEMA",
     "title": "SINEMA AKSIYON",
     "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/1293127897/index.m3u8",
@@ -1262,7 +1262,7 @@
   },
   {
     "id": 124,
-    "images": "https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=172",
+    "images": "https://i.imgur.com/EqY8dYi.png",
     "category": "SINEMA",
     "title": "SINEMA KOMEDI",
     "link-1": "https://fs.mediafs.online/bilgintv/sinemakomedi/mpegts",
@@ -1275,7 +1275,7 @@
   },
   {
     "id": 125,
-    "images": "https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=584",
+    "images": "https://i.imgur.com/WbeEJQm.png",
     "category": "SINEMA",
     "title": "SINEMA YERLI",
     "link-1": "https://fs.mediafs.online/bilgintv/sinemayerli/mpegts",
