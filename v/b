@@ -935,9 +935,22 @@
     "position": 2,
     "to": "NO"
   },
+    {
+    "id": 90,
+    "images": "https://i.hizliresim.com/b0ro510.png",
+    "category": "SPOR",
+    "title": "TABİİ SPOR",
+    "link-1": "http://45admin.bmstv.global.ssl.fastly.net/e/video.m3u8",
+    "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+    "headers": "Referer: https://google.com",
+    "type": "0",
+    "yt": "NO",
+    "position": 2,
+    "to": "NO"
+  },
   {
     "id": 83,
-    "images": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg",
+    "images": "https://i.hizliresim.com/b0ro510.png",
     "category": "SPOR",
     "title": "TABİİ SPOR 1",
     "link-1": "http://45admin.bmstv.global.ssl.fastly.net/e/video.m3u8",
@@ -950,7 +963,7 @@
   },
   {
     "id": 84,
-    "images": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg",
+    "images": "https://i.hizliresim.com/b0ro510.png",
     "category": "SPOR",
     "title": "TABİİ SPOR 2",
     "link-1": "http://45admin.bmstv.global.ssl.fastly.net/e/video.m3u8",
@@ -963,7 +976,7 @@
   },
   {
     "id": 85,
-    "images": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg",
+    "images": "https://i.hizliresim.com/b0ro510.png",
     "category": "SPOR",
     "title": "TABİİ SPOR 3",
     "link-1": "http://45admin.bmstv.global.ssl.fastly.net/e/video.m3u8",
@@ -976,7 +989,7 @@
   },
   {
     "id": 86,
-    "images": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg",
+    "images": "https://i.hizliresim.com/b0ro510.png",
     "category": "SPOR",
     "title": "TABİİ SPOR 4",
     "link-1": "http://45admin.bmstv.global.ssl.fastly.net/e/video.m3u8",
@@ -989,7 +1002,7 @@
   },
   {
     "id": 87,
-    "images": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg",
+    "images": "https://i.hizliresim.com/b0ro510.png",
     "category": "SPOR",
     "title": "TABİİ SPOR 5",
     "link-1": "http://45admin.bmstv.global.ssl.fastly.net/e/video.m3u8",
@@ -1002,7 +1015,7 @@
   },
   {
     "id": 88,
-    "images": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg",
+    "images": "https://i.hizliresim.com/b0ro510.png",
     "category": "SPOR",
     "title": "TABİİ SPOR 6",
     "link-1": "http://45admin.bmstv.global.ssl.fastly.net/e/video.m3u8",
@@ -1015,22 +1028,9 @@
   },
   {
     "id": 89,
-    "images": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg",
+    "images": "https://i.hizliresim.com/b0ro510.png",
     "category": "SPOR",
     "title": "TABİİ SPOR 7",
-    "link-1": "http://45admin.bmstv.global.ssl.fastly.net/e/video.m3u8",
-    "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
-    "headers": "Referer: https://google.com",
-    "type": "0",
-    "yt": "NO",
-    "position": 2,
-    "to": "NO"
-  },
-  {
-    "id": 90,
-    "images": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg",
-    "category": "SPOR",
-    "title": "TABİİ SPOR 8",
     "link-1": "http://45admin.bmstv.global.ssl.fastly.net/e/video.m3u8",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "Referer: https://google.com",
