@@ -591,7 +591,7 @@
     "title": "BEİN SPORTS 1 | A",
     "link-1": "https://koprulu64.serv00.net/play/takip/yayinzirve.m3u8",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
-    "headers": "Referer: https://trgoals.xyz",
+    "headers": "\"Referer\", \"https://trgoals.xyz\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
