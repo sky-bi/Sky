@@ -1330,52 +1330,52 @@
     "images": "https://i.imgur.com/IiOkNYj.png",
     "category": "SINEMA",
     "title": "BEIN SERIES 1",
-    "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/1668144911/index.m3u8",
+    "link-1": "https://www.oha.to/oha-tv/play/2190922298c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "Referer: https://google.com",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 116,
     "images": "https://i.imgur.com/IiOkNYj.png",
     "category": "SINEMA",
     "title": "BEIN SERIES 2",
-    "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/727975195/index.m3u8",
+    "link-1": "https://www.oha.to/oha-tv/play/3308693738c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "Referer: https://google.com",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 117,
     "images": "https://i.imgur.com/IiOkNYj.png",
     "category": "SINEMA",
     "title": "BEIN SERIES 3",
-    "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/3016529666/index.m3u8",
+    "link-1": "https://www.oha.to/oha-tv/play/4166418778c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "Referer: https://google.com",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 118,
     "images": "https://i.imgur.com/IiOkNYj.png",
     "category": "SINEMA",
     "title": "BEIN SERIES 4",
-    "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/1125523262/index.m3u8",
+    "link-1": "https://www.oha.to/oha-tv/play/1249271114c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "Referer: https://google.com",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 108,
