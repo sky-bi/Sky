@@ -602,39 +602,39 @@
     "images": "https://i.imgur.com/Vtk2cGI.png",
     "category": "SPOR",
     "title": "BEİN SPORTS 1 | B",
-    "link-1": "https://bmsbot.global.ssl.fastly.net/bot/app/bilgintv/main/manifest/version/2.7/server/stream/play/1/index.m3u8",
+    "link-1": "https://www.oha.to/oha-tv/play/1352421053c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "Referer: https://google.com",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
     {
     "id": 67,
     "images": "https://i.imgur.com/Vtk2cGI.png",
     "category": "SPOR",
     "title": "BEİN SPORTS 1 | C",
-    "link-1": "https://bmsbot.global.ssl.fastly.net/bot/app/bilgintv/main/manifest/version/2.7/server/stream/play/1/index.m3u8",
+    "link-1": "https://www.oha.to/oha-tv/play/499485497c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "Referer: https://google.com",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
     {
     "id": 67,
     "images": "https://i.imgur.com/Vtk2cGI.png",
     "category": "SPOR",
     "title": "BEİN SPORTS 1 | D",
-    "link-1": "https://bmsbot.global.ssl.fastly.net/bot/app/bilgintv/main/manifest/version/2.7/server/stream/play/1/index.m3u8",
+    "link-1": "https://www.oha.to/oha-tv/play/662179620c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "Referer: https://google.com",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 68,
