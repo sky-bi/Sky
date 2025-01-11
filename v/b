@@ -1382,91 +1382,91 @@
     "images": "https://i.imgur.com/a8LXVXA.png",
     "category": "SINEMA",
     "title": "BEIN MOVIES ACTION",
-    "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/3041245607/index.m3u8",
+    "link-1": "https://www.oha.to/oha-tv/play/1873478131c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 109,
     "images": "https://i.imgur.com/a8LXVXA.png",
     "category": "SINEMA",
     "title": "BEIN MOVIES ACTION 2",
-    "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/650851542/index.m3u8",
+    "link-1": "https://www.oha.to/oha-tv/play/2617318386c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 110,
     "images": "https://i.imgur.com/OmI2dsZ.png",
     "category": "SINEMA",
     "title": "BEIN MOVIES FAMILY",
-    "link-1": "http://fs.mediafs.online/bilgintv/bmfamily/mpegts",
+    "link-1": "https://www.oha.to/oha-tv/play/2485199152c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 111,
     "images": "https://i.imgur.com/EYUYxrt.png",
     "category": "SINEMA",
     "title": "BEIN MOVIES PREMIERE",
-    "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/2197747964/index.m3u8",
+    "link-1": "https://www.oha.to/oha-tv/play/942987224c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 112,
     "images": "https://i.imgur.com/EYUYxrt.png",
     "category": "SINEMA",
     "title": "BEIN MOVIES PREMIERE 2",
-    "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/2120218356/index.m3u8",
+    "link-1": "https://www.oha.to/oha-tv/play/2244069093c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 113,
     "images": "https://i.imgur.com/g7Azn8S.png",
     "category": "SINEMA",
     "title": "BEIN MOVIES STARS",
-    "link-1": "http://fs.mediafs.online/bilgintv/bmstars/mpegts",
+    "link-1": "https://www.oha.to/oha-tv/play/2500913164c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 114,
     "images": "https://i.imgur.com/Sf6k3VK.png",
     "category": "SINEMA",
     "title": "BEIN MOVIES TURK",
-    "link-1": "https://fs.mediafs.online/bilgintv/bmturk/mpegts",
+    "link-1": "https://www.oha.to/oha-tv/play/3390575948c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 126,
