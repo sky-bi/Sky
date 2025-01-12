@@ -1850,39 +1850,39 @@
     "images": "https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/a7c68ac0ea9d7202faa1d46ab22b55e3.png",
     "category": "COCUK",
     "title": "Akilli Tavsan Momo",
-    "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/4093001640/index.m3u8",
+    "link-1": "https://www.oha.to/oha-tv/play/4093001640c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 172,
     "images": "https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/93f73ccbb1b6c3e0e8ae92c4552a5542.png",
     "category": "COCUK",
     "title": "Baby TV",
-    "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/4184865290/index.m3u8",
+    "link-1": "https://www.oha.to/oha-tv/play/4184865290c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 173,
     "images": "https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/81a27b50d0e40fe5101f15bda70e475e.png",
     "category": "COCUK",
     "title": "Boomerang FHD",
-    "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/3510107618/index.m3u8",
+    "link-1": "https://www.oha.to/oha-tv/play/3510107618c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 174,
@@ -1902,78 +1902,78 @@
     "images": "https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/98da911a6a7e9b677b03b2453b2befb1.png",
     "category": "COCUK",
     "title": "Disney Channel",
-    "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/3578544716/index.m3u8",
+    "link-1": "https://www.oha.to/oha-tv/play/3578544716c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 176,
     "images": "https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/ff2adcdae94513260190f14997f75307.png",
     "category": "COCUK",
     "title": "Disney Junior",
-    "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/649228722/index.m3u8",
+    "link-1": "https://www.oha.to/oha-tv/play/649228722c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 177,
     "images": "https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/d977c195dbd4db89dc3ab48d1f69ccdb.png",
     "category": "COCUK",
     "title": "Minika Go",
-    "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/2937701421/index.m3u8",
+    "link-1": "https://www.oha.to/oha-tv/play/2937701421c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 178,
     "images": "https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/c5378f8b9b4994a63c8a0f6f737687f4.png",
     "category": "COCUK",
     "title": "Minika Çocuk",
-    "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/4058432171/index.m3u8",
+    "link-1": "https://www.oha.to/oha-tv/play/4058432171c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 179,
     "images": "https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/913c4858c66af34fc5575fcb46f3fecb.png",
     "category": "COCUK",
     "title": "Nick Jr",
-    "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/85708551/index.m3u8",
+    "link-1": "https://www.oha.to/oha-tv/play/85708551c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 180,
     "images": "https://api.codetabs.com/v1/proxy/?quest=http://xplatinmedia.com:8080/images/c8eee60a28df9f26b8fd57fc47b034b8.png",
     "category": "COCUK",
     "title": "Smart Çocuk",
-    "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/4277750275/index.m3u8",
+    "link-1": "https://www.oha.to/oha-tv/play/4277750275c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 181,
