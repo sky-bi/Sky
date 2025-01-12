@@ -40,7 +40,7 @@
   },
   {
     "id": 271,
-    "images": "https://i.imgur.com/UbpS2SJ.png",
+    "images": "https://mediacms01.digiturkplay.com/channel_logo/atv_250x150_14_07_21_png.png",
     "category": "ULUSAL",
     "title": "ATV",
     "link-1": "https://www.oha.to/oha-tv/play/3511150491c5a392c54f71",
@@ -79,7 +79,7 @@
   },
   {
     "id": 274,
-    "images": "https://i.imgur.com/5jmpaTG.png",
+    "images": "https://mediacms01.digiturkplay.com/channel_logo/kanald_250x150.png",
     "category": "ULUSAL",
     "title": "KANAL D",
     "link-1": "https://demiroren-live.daioncdn.net/kanald/kanald.m3u8",
@@ -105,7 +105,7 @@
   },
   {
     "id": 277,
-    "images": "https://i.imgur.com/flrZQqC.png",
+    "images": "https://mediacms01.digiturkplay.com/channel_logo/star250x150.png",
     "category": "ULUSAL",
     "title": "STAR TV",
     "link-1": "http://live3sr.kablowebtv.com/Live/HLS/4135/4135.m3u8",
@@ -118,7 +118,7 @@
   },
   {
     "id": 279,
-    "images": "https://i.imgur.com/flrZQqC.png",
+    "images": "https://mediacms01.digiturkplay.com/channel_logo/star250x150.png",
     "category": "ULUSAL",
     "title": "EURO STAR",
     "link-1": "\"Referer\", \"https://google.com/\"",
@@ -131,7 +131,7 @@
   },
   {
     "id": 280,
-    "images": "https://i.imgur.com/VWWhYki.png",
+    "images": "https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png",
     "category": "ULUSAL",
     "title": "SHOW TV",
     "link-1": "http://live3sr.kablowebtv.com/Live/HLS/4129/4129.m3u8",
@@ -144,7 +144,7 @@
   },
   {
     "id": 281,
-    "images": "https://i.imgur.com/VWWhYki.png",
+    "images": "https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png",
     "category": "ULUSAL",
     "title": "SHOW TÜRK",
     "link-1": "https://cdntv.online/high/ynemik5cl9/1740.m3u8",
