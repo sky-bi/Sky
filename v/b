@@ -1278,13 +1278,13 @@
     "images": "https://i.imgur.com/5aAkPIl.png",
     "category": "SINEMA",
     "title": "BEIN BOX OFFICE 1",
-    "link-1": "https://risekings.cfd/static/box1/index.m3u8?md5=ogKfnFVD60VyezB4D9fCMQ&expires=1736717827",
+    "link-1": "https://www.oha.to/oha-tv/play/2930746102c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Referer\", \"https://google.com\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 106,
@@ -1460,78 +1460,78 @@
     "images": "https://i.imgur.com/mb3jM28.png",
     "category": "SINEMA",
     "title": "DIZI SMART MAX",
-    "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/4079530614/index.m3u8",
+    "link-1": "https://www.oha.to/oha-tv/play/4079530614c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 127,
     "images": "https://i.imgur.com/geku2QD.png",
     "category": "SINEMA",
     "title": "DIZI SMART PREMIUM",
-    "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/791616758/index.m3u8",
+    "link-1": "https://www.oha.to/oha-tv/play/791616758c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 128,
     "images": "https://i.imgur.com/DWN9ulT.png",
     "category": "SINEMA",
     "title": "MOVIE SMART TURK",
-    "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/353384054/index.m3u8",
+    "link-1": "https://www.oha.to/oha-tv/play/353384054c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 129,
     "images": "https://upload.wikimedia.org/wikipedia/tr/4/4c/FILMBOX_HD.png",
     "category": "SINEMA",
     "title": "FILMBOX AKSIYON",
-    "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/1130352730/index.m3u8",
+    "link-1": "https://www.oha.to/oha-tv/play/1130352730c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 130,
     "images": "https://upload.wikimedia.org/wikipedia/tr/4/4c/FILMBOX_HD.png",
     "category": "SINEMA",
     "title": "FILMBOX COMEDY",
-    "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/2089556265/index.m3u8",
+    "link-1": "https://www.oha.to/oha-tv/play/2089556265c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 131,
     "images": "https://upload.wikimedia.org/wikipedia/tr/4/4c/FILMBOX_HD.png",
     "category": "SINEMA",
     "title": "FILMBOX FAMILY",
-    "link-1": "https://bmstv.global.ssl.fastly.net/app/bilgintv/main/manifest/version/2.7/server/stream/play/4033560729/index.m3u8",
+    "link-1": "https://www.oha.to/oha-tv/play/4033560729c5a392c54f71",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "NO"
+    "to": "YES"
   },
   {
     "id": 144,
