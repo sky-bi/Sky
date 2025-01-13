@@ -576,6 +576,19 @@
     "images": "https://i.imgur.com/Vtk2cGI.png",
     "category": "SPOR",
     "title": "BEİN SPORTS 1 | A",
+    "link-1": "https://www.oha.to/oha-tv/play/1453692314c5a392c54f71",
+    "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
+    "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
+    "type": "0",
+    "yt": "NO",
+    "position": 2,
+    "to": "YES"
+  },
+    {
+    "id": 67,
+    "images": "https://i.imgur.com/Vtk2cGI.png",
+    "category": "SPOR",
+    "title": "BEİN SPORTS 1 | B",
     "link-1": "https://koprulu64.serv00.net/play/takip/yayinzirve.m3u8",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Referer\", \"https://trgoals.xyz\"",
@@ -583,19 +596,6 @@
     "yt": "NO",
     "position": 2,
     "to": "NO"
-  },
-    {
-    "id": 67,
-    "images": "https://i.imgur.com/Vtk2cGI.png",
-    "category": "SPOR",
-    "title": "BEİN SPORTS 1 | B",
-    "link-1": "https://www.oha.to/oha-tv/play/662179620c5a392c54f71",
-    "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
-    "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
-    "type": "0",
-    "yt": "NO",
-    "position": 2,
-    "to": "YES"
   },
     {
     "id": 67,
