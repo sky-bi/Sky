@@ -927,91 +927,91 @@
     "images": "https://i.imgur.com/QaxS1ak.png",
     "category": "SPOR",
     "title": "TABİİ SPOR",
-    "link-1": "https://www.oha.to/oha-tv/play/4022148175c5a392c54f71",
+    "link-1": "https://bilginsky.serv00.net/aynen/?id=0&extensions=.m3u8",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "YES"
+    "to": "NO"
   },
   {
     "id": 83,
     "images": "https://i.imgur.com/QaxS1ak.png",
     "category": "SPOR",
     "title": "TABİİ SPOR 1",
-    "link-1": "https://www.oha.to/oha-tv/play/3665914763c5a392c54f71",
+    "link-1": "https://bilginsky.serv00.net/aynen/?id=1&extensions=.m3u8",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "YES"
+    "to": "NO"
   },
   {
     "id": 84,
     "images": "https://i.imgur.com/QaxS1ak.png",
     "category": "SPOR",
     "title": "TABİİ SPOR 2",
-    "link-1": "https://www.oha.to/oha-tv/play/2490165372c5a392c54f71",
+    "link-1": "https://bilginsky.serv00.net/aynen/?id=2&extensions=.m3u8",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "YES"
+    "to": "NO"
   },
   {
     "id": 85,
     "images": "https://i.imgur.com/QaxS1ak.png",
     "category": "SPOR",
     "title": "TABİİ SPOR 3",
-    "link-1": "https://www.oha.to/oha-tv/play/1489430754c5a392c54f71",
+    "link-1": "https://bilginsky.serv00.net/aynen/?id=3&extensions=.m3u8",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "YES"
+    "to": "NO"
   },
   {
     "id": 86,
     "images": "https://i.imgur.com/QaxS1ak.png",
     "category": "SPOR",
     "title": "TABİİ SPOR 4",
-    "link-1": "https://www.oha.to/oha-tv/play/1375986171c5a392c54f71",
+    "link-1": "https://bilginsky.serv00.net/aynen/?id=4&extensions=.m3u8",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "YES"
+    "to": "NO"
   },
   {
     "id": 87,
     "images": "https://i.imgur.com/QaxS1ak.png",
     "category": "SPOR",
     "title": "TABİİ SPOR 5",
-    "link-1": "https://www.oha.to/oha-tv/play/2661933413c5a392c54f71",
+    "link-1": "https://bilginsky.serv00.net/aynen/?id=5&extensions=.m3u8",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "YES"
+    "to": "NO"
   },
   {
     "id": 88,
     "images": "https://i.imgur.com/QaxS1ak.png",
     "category": "SPOR",
     "title": "TABİİ SPOR 6",
-    "link-1": "https://www.oha.to/oha-tv/play/270984838c5a392c54f71",
+    "link-1": "https://bilginsky.serv00.net/aynen/?id=6&extensions=.m3u8",
     "user_Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",
     "headers": "\"Cookie\", \"ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045\"",
     "type": "0",
     "yt": "NO",
     "position": 2,
-    "to": "YES"
+    "to": "NO"
   },
   {
     "id": 91,
