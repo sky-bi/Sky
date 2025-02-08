@@ -1,1 +1,1 @@
-https://sky-b.global.ssl.fastly.net
+https://sky-bi.global.ssl.fastly.net
