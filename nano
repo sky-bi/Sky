@@ -3,6 +3,7 @@
     "host": "http://sky-bi.mediaapi.online:8080",
     "username": "turgutsos1",
     "password": "YDP2VJDZq4Xt",
-    "active": "1"
+    "active": "1",
+    "cf": "https://plain-disk-071c.mediafs.workers.dev"
   }
 ]
