@@ -1,6 +1,7 @@
 [
   {
     "host": "http://kurbaga.global.ssl.fastly.net",
+    "play-host": "http://kurbaga.global.ssl.fastly.net",
     "username": "turgutsos1",
     "password": "YDP2VJDZq4Xt",
     "active": "1",
