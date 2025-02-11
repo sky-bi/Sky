@@ -1,7 +1,7 @@
 [
   {
-    "host": "http://kurbaga.global.ssl.fastly.net",
-    "play-host": "http://sky-bi.mediaapi.online:8080",
+    "host": "https://kurbaga.global.ssl.fastly.net",
+    "play-host": "https://sky-bi.mediaapi.online",
     "username": "turgutsos1",
     "password": "YDP2VJDZq4Xt",
     "active": "1",
